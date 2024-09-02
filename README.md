@@ -1,0 +1,1 @@
+This folder holds code for hmc e155 lab 1 which will be used to verify proper functionality of the FPGA and MCU and control a seven-segment display.
