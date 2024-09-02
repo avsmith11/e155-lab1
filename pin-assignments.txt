@@ -1,0 +1,9 @@
+display segment | output pin
+	A		P3
+	B		P44
+	C		P12
+	D		P13
+	E		P18
+	F		P45
+	G		P46
+	DP		P20
