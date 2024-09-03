@@ -24,8 +24,8 @@ module lab1_xx (
 		counter <= counter + 1;
 		if (counter == 'd10000000):
 			counter <= 0;
-			led[2] <= ~led[2]
-	end
+			led[2] <= ~led[2] 
+	end	
 end module
 
 module segment_driver (
