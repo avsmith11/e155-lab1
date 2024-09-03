@@ -1,0 +1,8 @@
+<RadiantSimulationProject language="1" name="lab1_sim" path="../../sim" stage="0" simType="QuestaSim Qrun" version="2.0">
+    <Source langstandard="System Verilog" path="../../src/lab1_as.sv" type="VERILOG" worklib="work" include="none"/>
+    <SimLib value="pmi_work ovi_ice40up"/>
+    <GlbInc value=""/>
+    <Macro value=""/>
+    <Udo value=""/>
+    <TopModule language="VERILOG" name="lab1_as" instance=""/>
+</RadiantSimulationProject>
